@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">finding falcone</string>
+    <string name="btn_find_princes">Find Princes</string>
+    <string name="speed_title">Speed:</string>
+    <string name="nothing_to_select">Nothing To Select</string>
+    <string name="princes_found_on">Congratulations! Princes found on %s</string>
+    <string name="princes_not_found">404! Princes not found</string>
+</resources>
